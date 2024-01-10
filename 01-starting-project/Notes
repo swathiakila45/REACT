@@ -1,0 +1,5 @@
+1. If you face issue with npm install try to clear the cache first and install again 
+    ie. run **npm clear cache --force 
+            npm install**
+2. To start the dev server run npm run dev 
+    default por:5173
